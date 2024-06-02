@@ -55,9 +55,9 @@ less
       |___||______| |_______||___|  |_||__| |__||_______||_|  |__|  |___|  |_______||___|  |_|
 
 
-[*] Checking for any IDOR vulnerability on https://example.com
-[+] IDOR vulnerability found: https://example.com/path?param=payload (200)
-[-] No sensitive data exposed: https://example.com/path?param=payload (404)
+	[*] Checking for any IDOR vulnerability on https://example.com
+	[+] IDOR vulnerability found: https://example.com/path?param=payload (200)
+	[-] No sensitive data exposed: https://example.com/path?param=payload (404)
 
 
 
